@@ -84,3 +84,26 @@ O projeto Flappy Dragon é organizado da seguinte forma:
 *   **Tecnologia:** Pygame (Python)
 
 ---
+
+
+
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
+
+
+
+
+## Versão Web
+
+Uma versão web do Flappy Dragon foi desenvolvida para demonstração e portfólio. Esta versão pode ser acessada diretamente no navegador, oferecendo a mesma experiência de jogo em uma plataforma diferente.
+
+*   **Repositório da Versão Web:** [https://github.com/Sonekas/Flappy-Dragon-Web](https://github.com/Sonekas/Flappy-Dragon-Web)
+
+
+
+
+*   **Demonstração Online:** [https://sonekas.github.io/Flappy-Dragon-Web/](https://sonekas.github.io/Flappy-Dragon-Web/)
+
+
