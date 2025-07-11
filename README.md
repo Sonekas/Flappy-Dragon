@@ -86,15 +86,6 @@ O projeto Flappy Dragon é organizado da seguinte forma:
 ---
 
 
-
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
-
-
-
 ## Versão Web
 
 Uma versão web do Flappy Dragon foi desenvolvida para demonstração e portfólio. Esta versão pode ser acessada diretamente no navegador, oferecendo a mesma experiência de jogo em uma plataforma diferente.
